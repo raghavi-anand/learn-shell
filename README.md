@@ -1,1 +1,1 @@
-# learn-shell
+Shell scripting, we learn Bash Shell scripting
