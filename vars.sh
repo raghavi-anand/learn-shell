@@ -1,5 +1,5 @@
 DATE=$(date)
-Todays date is - ${DATE}
+echo Todays date is - ${DATE}
 
 ADD=$((3+6))
-Sum is - $ADD
+echo Sum is - $ADD
