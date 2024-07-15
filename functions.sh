@@ -1,8 +1,9 @@
 greetings(){
   echo "Happy Morning"
+  exit
   echo "I am awesome"
   echo "I am sweetheart"
-  return 6
+
 }
 
 greetings
