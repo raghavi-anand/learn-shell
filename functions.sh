@@ -3,7 +3,7 @@ greetings(){
 
   echo "I am awesome"
   echo "I am sweetheart"
-
+  return 4
 }
 
 greetings
