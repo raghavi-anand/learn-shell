@@ -7,6 +7,17 @@ greetings(){
 
 }
 
-greetings
+#greetings
 
-echo Exit status of function - $?
+#echo Exit status of function - $?
+
+input(){
+
+  echo First Argument is = $1
+  echo Second Argument is = $2
+  echo All Arguments = $*
+  echo No of Argument is = $#
+
+}
+
+input abc 345
