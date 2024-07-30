@@ -1,1 +1,1 @@
-curl https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01 | grep nsecp
+curl -s https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01 | grep nsecp
