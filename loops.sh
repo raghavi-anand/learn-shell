@@ -13,3 +13,4 @@ for i in {1..4};do
 done
 
 echo User is - $USER
+echo abc - $abc
