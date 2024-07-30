@@ -8,6 +8,6 @@ for comp in frontend mongodb user cart; do
   echo $comp
 done
 
-for i in [1..4]; do
+for i in [ 1..4 ]; do
   echo $i
 done
